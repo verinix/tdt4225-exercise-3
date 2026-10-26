@@ -27,3 +27,17 @@ Download `The Movies Dataset`:
 ```powershell
 python download_data.py
 ```
+
+## Part 1
+
+Run the exploratory data analysis:
+
+```powershell
+python eda.py
+```
+
+Create the database collections, clean the data, and import it:
+
+```powershell
+python load_data.py
+```
