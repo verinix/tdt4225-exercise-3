@@ -41,3 +41,11 @@ Create the database collections, clean the data, and import it:
 ```powershell
 python load_data.py
 ```
+
+## Part 2
+
+Run the analytical queries:
+
+```powershell
+python queries.py
+```
