@@ -49,3 +49,7 @@ Run the analytical queries:
 ```powershell
 python queries.py
 ```
+
+## Part 3
+
+The report is stored in `docs/`.
